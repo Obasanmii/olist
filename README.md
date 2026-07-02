@@ -34,7 +34,7 @@ Python · SQL (DuckDB) · pandas · Plotly · Streamlit
 ### How to run
 ```bash
 git clone <your-repo-url>
-cd olist-delivery-analysis
+cd olist
 python -m venv venv && source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
