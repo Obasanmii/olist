@@ -1,0 +1,14 @@
+# raw data — don't commit the CSVs
+data/*.csv
+
+# python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# duckdb
+*.duckdb
+
+# os
+.DS_Store
